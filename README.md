@@ -29,7 +29,7 @@ Build a Flask based project that can `GET, CREATE, UPDATE and DELETE` article da
 
 - Flask.
 - Relational or Non-Relational Database
-- Any templating engine (Jinja2, Mako, Chameleon)
+- Templating engine (Jinja2, Mako, Chameleon, etc)
 
 
 ## What We Care About
@@ -38,6 +38,6 @@ Feel free to use any open-source library as you see fit, but remember that we ar
 
 Here's what you should aim for:
 
-- Good use of Flask & API design best practices.
+- Good use of Flask architecural design best practices.
 - Clear comments.
 - Extensible code.
