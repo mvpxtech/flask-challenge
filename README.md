@@ -21,7 +21,7 @@ Build a RESTful API that can `GET, CREATE, UPDATE and DELETE` user data from a p
 
 ### Functionality
 
-- Should use MVC architecture
+- Use any project architecture (MVC, MVVM, etc)
 - The data should be saved in database (relational or non-relational)
 - Write good in-code comments.
 
