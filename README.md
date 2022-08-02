@@ -1,19 +1,19 @@
-# Backend Developer (Flask) test
+# Fullstack Python Developer (Flask) test
 
 Make sure you read the whole document carefully and follow the guidelines in it.
 
 ## Context
 
-Build a RESTful API that can `GET, CREATE, UPDATE and DELETE` user data from a persistence database
+Build a Flask based project that can `GET, CREATE, UPDATE and DELETE` article data from a persistence database
 
-### User Model
+### Article Model
 
 ```
 {
-  "id": "xxx",                  // user ID 
-  "name": "test",               // user name
-  "address": "",                // user address
-  "createdAt": ""               // user created date
+  "id": "xxx",                  // article ID 
+  "title": "xxx",               // article name
+  "body": "xxx",                // article body
+  "createdAt": ""               // article created date
 }
 ```
 
@@ -29,6 +29,7 @@ Build a RESTful API that can `GET, CREATE, UPDATE and DELETE` user data from a p
 
 - Flask.
 - Relational or Non-Relational Database
+- Any templating engine (Jinja2, Mako, Chameleon)
 
 
 ## What We Care About
